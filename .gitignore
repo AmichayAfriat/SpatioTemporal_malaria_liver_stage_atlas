@@ -1,3 +1,8 @@
+# exclude processed_data folder
+processed_data/*
+# except the folder itself
+!processed_data/.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
