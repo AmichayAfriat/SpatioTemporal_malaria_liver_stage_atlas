@@ -1,16 +1,8 @@
 # SpatioTemporal Malaria Liver-stage Atlas
 
 This code is associated with the following manuscript:
-(biorxiv-link)
+https://www.biorxiv.org/content/10.1101/2021.12.03.471111v1
 and allows you to go from raw data into a usable Seurat/Scanpy structure for further analysis.
-
-__NOTE! This code is based on Raw mRNA sequencing data__
-
-Files have been deposited in the GenBank GEO database under accession code GSE181725
-and should be downloaded prior to running this script
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181725
-
-
 
 __Files:__
 
