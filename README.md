@@ -1,7 +1,7 @@
 # SpatioTemporal Malaria Liver-stage Atlas
 
 This code is associated with the following manuscript:
-https://www.biorxiv.org/content/10.1101/2021.12.03.471111v1
+https://www.nature.com/articles/s41586-022-05406-5
 and allows you to go from raw data into a usable Seurat/Scanpy structure for further analysis.
 
 __Files:__
